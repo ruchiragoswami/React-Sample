@@ -36,3 +36,46 @@
     transform: rotate(360deg);
   }
 }
+
+table {
+  margin: 0 auto;
+  text-align: left;
+  margin-top: 40px;
+  line-height: 2em;
+  border-collapse:separate; 
+  border-spacing: 0.8em;
+  max-width: 900px;
+  
+  
+}
+ td{
+  border-left: 1px solid green;
+  padding: 5px;
+}
+
+tr {
+  outline: thin solid;
+}
+
+.icon {
+  width: 50px;
+  height: 50px;  
+  margin-left:30px ;
+  vertical-align: middle;
+}
+
+.flag {
+  width: 150px;
+  height: 100px;
+  vertical-align: middle;
+}
+
+button {
+  background-color: pink;
+  margin: 10px;
+}
+
+hr {
+  width: 60%;
+  margin-bottom: 10px;
+}
